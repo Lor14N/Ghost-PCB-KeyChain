@@ -2,6 +2,7 @@
 PCB Keychain following Solder.hackclub's tutorial.
 --------------------------------------------------
 Bill of Materials:
+  
   Reference: BT2
   Quantity: 1
   Value: Battery
